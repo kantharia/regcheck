@@ -1,0 +1,56 @@
+[
+  {
+    "name": "RBI Notifications",
+    "type": "rss",
+    "url": "https://www.rbi.org.in/notifications_rss.xml",
+    "tag": "RBI"
+  },
+  {
+    "name": "RBI Press Releases",
+    "type": "rss",
+    "url": "https://www.rbi.org.in/pressreleases_rss.xml",
+    "tag": "RBI"
+  },
+  {
+    "name": "RBI Publications",
+    "type": "rss",
+    "url": "https://www.rbi.org.in/Publication_rss.xml",
+    "tag": "RBI"
+  },
+  {
+    "name": "NPCI UPI",
+    "type": "html",
+    "url": "https://www.npci.org.in/circulars/upi",
+    "tag": "NPCI"
+  },
+  {
+    "name": "NPCI AEPS",
+    "type": "html",
+    "url": "https://www.npci.org.in/circulars/aeps",
+    "tag": "NPCI"
+  },
+  {
+    "name": "NPCI BBPS",
+    "type": "html",
+    "url": "https://www.npci.org.in/what-we-do/bharat-billpay/circular",
+    "tag": "NPCI"
+  },
+  {
+    "name": "NPCI NACH",
+    "type": "html",
+    "url": "https://www.npci.org.in/what-we-do/nach/circular",
+    "tag": "NPCI"
+  },
+  {
+    "name": "MeitY",
+    "type": "html",
+    "url": "https://www.meity.gov.in/content/notifications",
+    "tag": "MeitY"
+  },
+  {
+    "name": "FIU",
+    "type": "html",
+    "url": "https://fiuindia.gov.in/files/Circular.html",
+    "tag": "FIU"
+  }
+]

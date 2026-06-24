@@ -2,10 +2,94 @@
 <rss version="2.0">
   <channel>
     <title>RegRadar — Indian Fintech Regulatory Updates</title>
-    <link>https://USERNAME.github.io/reg-radar/</link>
+    <link>https://kantharia.github.io/regcheck/</link>
     <description>Weekly tracker for RBI, NPCI, MeitY and FIU circulars</description>
     <language>en-in</language>
-    <lastBuildDate>Sat, 20 Jun 2026 18:40:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 02:20:13 GMT</lastBuildDate>
+    <item>
+      <title>[RBI] RBI Governor Inaugurates the Campus of the Centre for Advanced Financial Research and Learning</title>
+      <link>https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63001</link>
+      <pubDate>Tue, 23 Jun 2026 20:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63001</guid>
+    </item>
+    <item>
+      <title>[RBI] Open positions of Authorised Dealer Category-I banks</title>
+      <link>https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13529&amp;Mode=0</link>
+      <pubDate>Tue, 23 Jun 2026 18:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13529&amp;Mode=0</guid>
+    </item>
+    <item>
+      <title>[RBI] Buyback of Government of India Dated Securities</title>
+      <link>https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63000</link>
+      <pubDate>Tue, 23 Jun 2026 17:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63000</guid>
+    </item>
+    <item>
+      <title>[RBI] Reserve Bank of India (Commercial Banks – Credit Facilities) Fourth Amendment Directions, 2026</title>
+      <link>https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13528&amp;Mode=0</link>
+      <pubDate>Tue, 23 Jun 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13528&amp;Mode=0</guid>
+    </item>
+    <item>
+      <title>[RBI] Reserve Bank of India (Small Finance Banks – Credit Facilities) Third Amendment Directions, 2026</title>
+      <link>https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13527&amp;Mode=0</link>
+      <pubDate>Tue, 23 Jun 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13527&amp;Mode=0</guid>
+    </item>
+    <item>
+      <title>[RBI] State Government Securities - Full Auction Result</title>
+      <link>https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62999</link>
+      <pubDate>Tue, 23 Jun 2026 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62999</guid>
+    </item>
+    <item>
+      <title>[RBI] Result of Yield/ Price Based Auction of State Government Securities</title>
+      <link>https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62998</link>
+      <pubDate>Tue, 23 Jun 2026 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62998</guid>
+    </item>
+    <item>
+      <title>[RBI] Reserve Bank of India (Trade Receivables Discounting System) Directions, 2026</title>
+      <link>https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13526&amp;Mode=0</link>
+      <pubDate>Tue, 23 Jun 2026 15:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13526&amp;Mode=0</guid>
+    </item>
+    <item>
+      <title>[RBI] RBI issues Final directions on Trade Receivables Discounting System (TReDS)</title>
+      <link>https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62997</link>
+      <pubDate>Tue, 23 Jun 2026 15:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62997</guid>
+    </item>
+    <item>
+      <title>[RBI] Result of the 7-day Variable Rate Repo (VRR) auction held on June 23, 2026</title>
+      <link>https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62996</link>
+      <pubDate>Tue, 23 Jun 2026 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62996</guid>
+    </item>
+    <item>
+      <title>[RBI] Money Market Operations as on June 22, 2026</title>
+      <link>https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62995</link>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62995</guid>
+    </item>
+    <item>
+      <title>[RBI] RBI to conduct 7-day Variable Rate Repo (VRR) auction under LAF on June 23, 2026</title>
+      <link>https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62994</link>
+      <pubDate>Mon, 22 Jun 2026 19:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62994</guid>
+    </item>
+    <item>
+      <title>[RBI] Auction of Government of India Dated Securities</title>
+      <link>https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62993</link>
+      <pubDate>Mon, 22 Jun 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62993</guid>
+    </item>
+    <item>
+      <title>[RBI] RBI Bulletin – June 2026</title>
+      <link>https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62992</link>
+      <pubDate>Mon, 22 Jun 2026 17:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62992</guid>
+    </item>
     <item>
       <title>[RBI] Auction of State Government Securities</title>
       <link>https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62983</link>

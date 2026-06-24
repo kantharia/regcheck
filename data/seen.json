@@ -29,10 +29,144 @@
     "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=23815",
     "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=23820",
     "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=23814",
-    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=23813"
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=23813",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13529&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13528&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13527&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13526&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63001",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63000",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62999",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62998",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62997",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62996",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62995",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62994",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62993",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62992"
   ],
-  "last_run": "2026-06-20T18:40:46.123Z",
+  "last_run": "2026-06-24T02:20:13.795Z",
   "items": [
+    {
+      "title": "RBI Governor Inaugurates the Campus of the Centre for Advanced Financial Research and Learning",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63001",
+      "pubDate": "Tue, 23 Jun 2026 20:15:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
+      "pubDate": "Tue, 23 Jun 2026 19:50:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Open positions of Authorised Dealer Category-I banks",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13529&Mode=0",
+      "pubDate": "Tue, 23 Jun 2026 18:50:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Buyback of Government of India Dated Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63000",
+      "pubDate": "Tue, 23 Jun 2026 17:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Credit Facilities) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13528&Mode=0",
+      "pubDate": "Tue, 23 Jun 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Credit Facilities) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13527&Mode=0",
+      "pubDate": "Tue, 23 Jun 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "State Government Securities - Full Auction Result",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62999",
+      "pubDate": "Tue, 23 Jun 2026 16:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of Yield/ Price Based Auction of State Government Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62998",
+      "pubDate": "Tue, 23 Jun 2026 15:40:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Trade Receivables Discounting System) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13526&Mode=0",
+      "pubDate": "Tue, 23 Jun 2026 15:35:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "RBI issues Final directions on Trade Receivables Discounting System (TReDS)",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62997",
+      "pubDate": "Tue, 23 Jun 2026 15:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the 7-day Variable Rate Repo (VRR) auction held on June 23, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62996",
+      "pubDate": "Tue, 23 Jun 2026 10:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on June 22, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62995",
+      "pubDate": "Tue, 23 Jun 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct 7-day Variable Rate Repo (VRR) auction under LAF on June 23, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62994",
+      "pubDate": "Mon, 22 Jun 2026 19:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of Government of India Dated Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62993",
+      "pubDate": "Mon, 22 Jun 2026 18:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI Bulletin – June 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62992",
+      "pubDate": "Mon, 22 Jun 2026 17:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
     {
       "title": "Auction of State Government Securities",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62983",
@@ -197,14 +331,6 @@
       "title": "Supervisory Data Quality Index for Scheduled Commercial Banks (March 2026)",
       "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=23821",
       "pubDate": "Fri, 19 Jun 2026 12:30:00",
-      "tag": "RBI",
-      "source": "RBI Publications",
-      "type": "rss"
-    },
-    {
-      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
-      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
-      "pubDate": "Wed, 10 Jun 2026 16:15:00",
       "tag": "RBI",
       "source": "RBI Publications",
       "type": "rss"

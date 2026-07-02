@@ -2,7 +2,7 @@ name: RegRadar Weekly Crawl
 
 on:
   schedule:
-    - cron: "30 1 * * 3"
+    - cron: "30 1 * * 2,5"
   workflow_dispatch:
 
 jobs:

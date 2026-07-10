@@ -83,10 +83,117 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63091",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63090",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63089",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63088"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63088",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13554&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63119",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63118",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63117",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63116",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63115",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63114",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63113",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63112",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63111",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63110"
   ],
-  "last_run": "2026-07-07T05:35:10.255Z",
+  "last_run": "2026-07-10T05:33:28.584Z",
   "items": [
+    {
+      "title": "Result of the 3-day Variable Rate Repo (VRR) auction held on July 10, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63119",
+      "pubDate": "Fri, 10 Jul 2026 10:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of Underwriting Auction conducted on July 10, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63118",
+      "pubDate": "Fri, 10 Jul 2026 09:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on July 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63117",
+      "pubDate": "Fri, 10 Jul 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on July 10, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63116",
+      "pubDate": "Thu, 09 Jul 2026 19:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Money and Money Supply for the fortnight ended on June 30, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63115",
+      "pubDate": "Thu, 09 Jul 2026 17:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI launches the July 2026 round of the Inflation Expectations Survey of Households",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63114",
+      "pubDate": "Thu, 09 Jul 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI launches the July 2026 round of Urban Consumer Confidence Survey",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63113",
+      "pubDate": "Thu, 09 Jul 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI launches the July 2026 round of the Rural Consumer Confidence Survey",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63112",
+      "pubDate": "Thu, 09 Jul 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
+      "pubDate": "Thu, 09 Jul 2026 16:30:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 1 Entry",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13554&Mode=0",
+      "pubDate": "Thu, 09 Jul 2026 16:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the Overnight Variable Rate Repo (VRR) auction held on July 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63111",
+      "pubDate": "Thu, 09 Jul 2026 13:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on July 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63110",
+      "pubDate": "Thu, 09 Jul 2026 11:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
     {
       "title": "Result of the Overnight Variable Rate Repo (VRR) auction held on July 07, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63097",
@@ -165,14 +272,6 @@
       "pubDate": "Mon, 06 Jul 2026 09:00:00",
       "tag": "RBI",
       "source": "RBI Press Releases",
-      "type": "rss"
-    },
-    {
-      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
-      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
-      "pubDate": "Fri, 03 Jul 2026 15:20:00",
-      "tag": "RBI",
-      "source": "RBI Publications",
       "type": "rss"
     },
     {

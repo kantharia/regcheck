@@ -94,10 +94,101 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63113",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63112",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63111",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63110"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63110",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63140",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63139",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63138",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63137",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63136",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63135",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63134",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63133",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63132",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63131",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=23822"
   ],
-  "last_run": "2026-07-10T05:33:28.584Z",
+  "last_run": "2026-07-14T04:25:45.924Z",
   "items": [
+    {
+      "title": "Money Market Operations as on July 13, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63140",
+      "pubDate": "Tue, 14 Jul 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series-IV due on July 14, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63139",
+      "pubDate": "Mon, 13 Jul 2026 18:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of Government of India Dated Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63138",
+      "pubDate": "Mon, 13 Jul 2026 17:45:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank convenes Third Annual Conference of Internal Ombudsmen",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63137",
+      "pubDate": "Mon, 13 Jul 2026 17:40:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Surat People’s Co-operative Bank Ltd., Surat",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63136",
+      "pubDate": "Mon, 13 Jul 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Ashok Sahakari Bank Ltd., Ahmednagar, Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63135",
+      "pubDate": "Mon, 13 Jul 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The Sambalpur District Co-operative Central Bank Limited, Odisha",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63134",
+      "pubDate": "Mon, 13 Jul 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The Nawada Central Co-operative Bank Limited, Bihar",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63133",
+      "pubDate": "Mon, 13 Jul 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The Chikhli Urban Co-operative Bank Limited, Chikhli, Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63132",
+      "pubDate": "Mon, 13 Jul 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Foreign Exchange Turnover Data: June 22, 2026 – June 25, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63131",
+      "pubDate": "Mon, 13 Jul 2026 16:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
     {
       "title": "Result of the 3-day Variable Rate Repo (VRR) auction held on July 10, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63119",
@@ -392,6 +483,14 @@
       "pubDate": "Tue, 30 Jun 2026 17:30:00",
       "tag": "RBI",
       "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Monetary and Credit Information Review",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=23822",
+      "pubDate": "Tue, 30 Jun 2026 17:10:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
       "type": "rss"
     },
     {

@@ -125,10 +125,109 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63163",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63162",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63161",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63160"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63160",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13581&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63200",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63199",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63198",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63197",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63196",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63195",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63194",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63193",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63192",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63191"
   ],
-  "last_run": "2026-07-17T04:39:48.123Z",
+  "last_run": "2026-07-21T04:44:45.407Z",
   "items": [
+    {
+      "title": "Money Market Operations as on July 20, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63200",
+      "pubDate": "Tue, 21 Jul 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on July 21, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63199",
+      "pubDate": "Mon, 20 Jul 2026 19:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reporting of FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) mobilized under Reserve Bank’s Swap Facility",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63198",
+      "pubDate": "Mon, 20 Jul 2026 18:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of Government of India Dated Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63197",
+      "pubDate": "Mon, 20 Jul 2026 18:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2019-20 Series-VIII due on July 21, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63196",
+      "pubDate": "Mon, 20 Jul 2026 17:45:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The United Puri-Nimapara Central Co-operative Bank Limited, Odisha",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63195",
+      "pubDate": "Mon, 20 Jul 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Manmad Urban Co-operative Bank Ltd., Manmad, Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63194",
+      "pubDate": "Mon, 20 Jul 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Kolhapur District Central Co-op Bank Ltd., Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63193",
+      "pubDate": "Mon, 20 Jul 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result: Conversion/Switch Auction of Government of India Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63192",
+      "pubDate": "Mon, 20 Jul 2026 16:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on July 19, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63191",
+      "pubDate": "Mon, 20 Jul 2026 11:15:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Special Rupee Vostro Accounts (SRVAs)",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13581&Mode=0",
+      "pubDate": "Fri, 17 Jul 2026 18:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
     {
       "title": "Result of Underwriting Auction conducted on July 17, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63169",

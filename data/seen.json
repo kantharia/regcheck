@@ -146,10 +146,108 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63219",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63218",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63217",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63216"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63216",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63246",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63245",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63244",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63243",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63242",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63241",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63240",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63239",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63238",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63237"
   ],
-  "last_run": "2026-07-24T04:46:17.886Z",
+  "last_run": "2026-07-28T04:41:06.549Z",
   "items": [
+    {
+      "title": "Money Market Operations as on July 27, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63246",
+      "pubDate": "Tue, 28 Jul 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of Government of India Dated Security",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63245",
+      "pubDate": "Mon, 27 Jul 2026 18:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI issues Draft (Securitisation Transactions) Amendment Directions",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63244",
+      "pubDate": "Mon, 27 Jul 2026 17:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Raigad District Central Co-operative Bank Ltd., Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63243",
+      "pubDate": "Mon, 27 Jul 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Sangli District Central Co-operative Bank Ltd., Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63242",
+      "pubDate": "Mon, 27 Jul 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Jilla Sahakari Kendriya Bank Maryadit, Shajapur, Madhya Pradesh",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63241",
+      "pubDate": "Mon, 27 Jul 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The Citizen Co-operative Bank Limited, Bangalore, Karnataka",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63240",
+      "pubDate": "Mon, 27 Jul 2026 17:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Exclusion of “Coöperatieve Rabobank U.A.” from the Second Schedule to the Reserve Bank of India Act, 1934",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63239",
+      "pubDate": "Mon, 27 Jul 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Cessation of “Coöperatieve Rabobank U.A.” as a banking company within the meaning of sub section (2) of Section 36 (A) of the Banking Regulation Act, 1949",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63238",
+      "pubDate": "Mon, 27 Jul 2026 17:15:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on July 26, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63237",
+      "pubDate": "Mon, 27 Jul 2026 11:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
+      "pubDate": "Fri, 24 Jul 2026 16:30:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
     {
       "title": "Result of Underwriting Auction conducted on July 24, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63225",
@@ -620,14 +718,6 @@
       "pubDate": "Thu, 09 Jul 2026 17:00:00",
       "tag": "RBI",
       "source": "RBI Press Releases",
-      "type": "rss"
-    },
-    {
-      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
-      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
-      "pubDate": "Thu, 09 Jul 2026 16:30:00",
-      "tag": "RBI",
-      "source": "RBI Publications",
       "type": "rss"
     },
     {

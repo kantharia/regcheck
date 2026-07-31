@@ -156,10 +156,190 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63240",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63239",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63238",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63237"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63237",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13661&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13660&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13659&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13658&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13657&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13656&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13655&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13654&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13653&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13652&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63262",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63261",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63260",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63259",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63258",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63257",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63256",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63255",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63254",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63253"
   ],
-  "last_run": "2026-07-28T04:41:06.549Z",
+  "last_run": "2026-07-31T04:57:28.443Z",
   "items": [
+    {
+      "title": "Result of Underwriting Auction conducted on July 31, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63262",
+      "pubDate": "Fri, 31 Jul 2026 10:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Scheduled Banks’ Statement of Position in India as on July 15, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63261",
+      "pubDate": "Fri, 31 Jul 2026 09:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on July 30, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63260",
+      "pubDate": "Fri, 31 Jul 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Urban Co-operative Banks – Interest Rate on Deposits) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13661&Mode=0",
+      "pubDate": "Thu, 30 Jul 2026 19:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks – Interest Rate on Deposits)  Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13660&Mode=0",
+      "pubDate": "Thu, 30 Jul 2026 19:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Payments Banks – Interest Rate on Deposits)  Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13659&Mode=0",
+      "pubDate": "Thu, 30 Jul 2026 19:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Regional Rural Banks – Interest Rate on Deposits) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13658&Mode=0",
+      "pubDate": "Thu, 30 Jul 2026 19:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Interest Rate on Deposits) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13657&Mode=0",
+      "pubDate": "Thu, 30 Jul 2026 19:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Interest Rate on Deposits)  Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13656&Mode=0",
+      "pubDate": "Thu, 30 Jul 2026 19:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "RBI Issues Amendment Directions on Interest Rate on Deposits",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63259",
+      "pubDate": "Thu, 30 Jul 2026 19:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Financial Statements: Presentation and Disclosures) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13655&Mode=0",
+      "pubDate": "Thu, 30 Jul 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Governance) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13654&Mode=0",
+      "pubDate": "Thu, 30 Jul 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Asset Liability Management) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13653&Mode=0",
+      "pubDate": "Thu, 30 Jul 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13652&Mode=0",
+      "pubDate": "Thu, 30 Jul 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "RBI issues Basel Pillar 3 Disclosures for Banks",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63258",
+      "pubDate": "Thu, 30 Jul 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Underwriting Auction for sale of Government Security for &#8377;34,000 crore on July 31, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63257",
+      "pubDate": "Thu, 30 Jul 2026 11:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on July 29, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63256",
+      "pubDate": "Thu, 30 Jul 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Treasury Bills: Full Auction Result",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63255",
+      "pubDate": "Wed, 29 Jul 2026 14:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63254",
+      "pubDate": "Wed, 29 Jul 2026 13:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the Overnight Variable Rate Repo (VRR) auction held on July 29, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63253",
+      "pubDate": "Wed, 29 Jul 2026 10:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
     {
       "title": "Money Market Operations as on July 27, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63246",

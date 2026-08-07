@@ -205,10 +205,253 @@
     "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24066",
     "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24065",
     "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24064",
-    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24063"
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24063",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13673&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13672&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13671&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13670&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13669&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13668&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13667&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13666&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13665&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63308",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63307",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63306",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63305",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63304",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63303",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63302",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63301",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63300",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63299",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24079",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24078",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24077",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24076",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24075",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24074",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24073",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24072"
   ],
-  "last_run": "2026-08-04T04:41:42.853Z",
+  "last_run": "2026-08-07T04:09:18.817Z",
   "items": [
+    {
+      "title": "Money Market Operations as on August 06, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63308",
+      "pubDate": "Fri, 07 Aug 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series-XI due on August 07, 2026 (August 08 and August 09 being holiday)",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63307",
+      "pubDate": "Thu, 06 Aug 2026 19:45:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Review of Guidelines on Concentration Risk Management - Rural Co-operative Banks",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63306",
+      "pubDate": "Thu, 06 Aug 2026 19:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Housing Finance Companies) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13673&Mode=0",
+      "pubDate": "Thu, 06 Aug 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Non-Banking Financial Companies - Responsible Business Conduct) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13672&Mode=0",
+      "pubDate": "Thu, 06 Aug 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (All India Financial Institutions - Responsible Business Conduct) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13671&Mode=0",
+      "pubDate": "Thu, 06 Aug 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Rural Co-operative Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13670&Mode=0",
+      "pubDate": "Thu, 06 Aug 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Urban Co-operative Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13669&Mode=0",
+      "pubDate": "Thu, 06 Aug 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Regional Rural Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13668&Mode=0",
+      "pubDate": "Thu, 06 Aug 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13667&Mode=0",
+      "pubDate": "Thu, 06 Aug 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13666&Mode=0",
+      "pubDate": "Thu, 06 Aug 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13665&Mode=0",
+      "pubDate": "Thu, 06 Aug 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "RBI Issues Amendment Directions on ‘Conduct of Regulated Entities in Recovery of Loans and Engagement of Recovery Agents’",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63305",
+      "pubDate": "Thu, 06 Aug 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Kedarnath Urban Co-operative Bank Ltd., Latur, Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63304",
+      "pubDate": "Thu, 06 Aug 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI invites comments on the draft “Reserve Bank of India (Non-Banking Financial Companies – Credit Facilities) Amendment Directions, 2026”",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63303",
+      "pubDate": "Thu, 06 Aug 2026 17:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Money for the fortnight ended on July 31, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63302",
+      "pubDate": "Thu, 06 Aug 2026 17:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI releases list of NBFCs in the Upper Layer (NBFC-UL) under Scale Based Regulation for NBFCs",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63301",
+      "pubDate": "Thu, 06 Aug 2026 16:15:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of Buyback Auction of Government of India Dated Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63300",
+      "pubDate": "Thu, 06 Aug 2026 14:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Underwriting Auction for sale of Government Securities for &#8377;32,000 crore on August 07, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63299",
+      "pubDate": "Thu, 06 Aug 2026 13:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Services and Infrastructure Outlook Survey for Q1:2026-27",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24079",
+      "pubDate": "Wed, 05 Aug 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Rural Consumer Confidence Survey",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24078",
+      "pubDate": "Wed, 05 Aug 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Households’ Inflation Expectations Survey",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24077",
+      "pubDate": "Wed, 05 Aug 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Urban Consumer Confidence Survey",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24076",
+      "pubDate": "Wed, 05 Aug 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Order Books, Inventories and Capacity Utilisation Survey on the Manufacturing sector for Q4:2025-26",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24075",
+      "pubDate": "Wed, 05 Aug 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Bank Lending Survey for Q1:2026-27",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24074",
+      "pubDate": "Wed, 05 Aug 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Industrial Outlook Survey of the Manufacturing Sector for Q1:2026-27",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24073",
+      "pubDate": "Wed, 05 Aug 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Survey of Professional Forecasters on Macroeconomic Indicators– Results of the 101st Round",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24072",
+      "pubDate": "Wed, 05 Aug 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
     {
       "title": "Money Market Operations as on August 3, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63281",

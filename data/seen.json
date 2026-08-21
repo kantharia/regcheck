@@ -265,10 +265,127 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63384",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63383",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63382",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63381"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63381",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13678&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13677&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13676&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63412",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63411",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63410",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63409",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63408",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63407",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63406",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63405",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63404",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63403"
   ],
-  "last_run": "2026-08-18T02:34:44.528Z",
+  "last_run": "2026-08-21T02:42:54.829Z",
   "items": [
+    {
+      "title": "Appointment of Shri Somanath Sreedhara Panicker as part-time, Non-official Director on the Central Board of Reserve Bank of India",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63412",
+      "pubDate": "Thu, 20 Aug 2026 20:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Re-appointment of Shri Anand Gopal Mahindra as part-time, Non-official Director on the Central Board of Reserve Bank of India",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63411",
+      "pubDate": "Thu, 20 Aug 2026 20:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 21, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63410",
+      "pubDate": "Thu, 20 Aug 2026 19:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the Second Overnight Variable Rate Reverse Repo (VRRR) auction held on August 20, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63409",
+      "pubDate": "Thu, 20 Aug 2026 11:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Underwriting Auction for sale of Government Securities for &#8377;28,000 crore on August 21, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63408",
+      "pubDate": "Thu, 20 Aug 2026 11:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct Second Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 20, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63407",
+      "pubDate": "Thu, 20 Aug 2026 10:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on August 20, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63406",
+      "pubDate": "Thu, 20 Aug 2026 10:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on August 19, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63405",
+      "pubDate": "Thu, 20 Aug 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 20, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63404",
+      "pubDate": "Wed, 19 Aug 2026 19:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Minutes of the Monetary Policy Committee Meeting, August 3 to 5, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63403",
+      "pubDate": "Wed, 19 Aug 2026 17:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 21 Entries",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13678&Mode=0",
+      "pubDate": "Wed, 19 Aug 2026 15:55:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 04 Entries",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13677&Mode=0",
+      "pubDate": "Tue, 18 Aug 2026 17:45:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 04 Entries",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13676&Mode=0",
+      "pubDate": "Tue, 18 Aug 2026 17:45:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
     {
       "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63390",

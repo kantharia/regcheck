@@ -278,10 +278,108 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63406",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63405",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63404",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63403"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63403",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63439",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63438",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63437",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63436",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63435",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63434",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63433",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63432",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63431",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63430"
   ],
-  "last_run": "2026-08-21T02:42:54.829Z",
+  "last_run": "2026-08-25T02:37:55.994Z",
   "items": [
+    {
+      "title": "RBI to conduct 2-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 25, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63439",
+      "pubDate": "Mon, 24 Aug 2026 19:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Appointment of Shri Janmejaya Kumar Sinha, Shri Syed Akbaruddin and Ms. Annie George Mathew as part-time, Non-official Directors on the Central Board of Reserve Bank of India",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63438",
+      "pubDate": "Mon, 24 Aug 2026 18:15:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of Government of India Dated Security",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63437",
+      "pubDate": "Mon, 24 Aug 2026 18:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "All-India House Price Index for Q1:2026-27",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63436",
+      "pubDate": "Mon, 24 Aug 2026 17:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Vikas Souharda Co-operative Bank Limited, Hosapete, Karnataka",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63435",
+      "pubDate": "Mon, 24 Aug 2026 17:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The Pragathi Co-operative Bank Limited, Karnataka",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63434",
+      "pubDate": "Mon, 24 Aug 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Shri Vijay Mahantesh Co-operative Bank Limited, Hungund, Karnataka",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63433",
+      "pubDate": "Mon, 24 Aug 2026 17:15:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on August 23, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63432",
+      "pubDate": "Mon, 24 Aug 2026 12:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on August 22, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63431",
+      "pubDate": "Mon, 24 Aug 2026 12:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on August 24, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63430",
+      "pubDate": "Mon, 24 Aug 2026 11:45:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
+      "pubDate": "Fri, 21 Aug 2026 16:05:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
     {
       "title": "Appointment of Shri Somanath Sreedhara Panicker as part-time, Non-official Director on the Central Board of Reserve Bank of India",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63412",
@@ -400,14 +498,6 @@
       "pubDate": "Mon, 17 Aug 2026 18:50:00",
       "tag": "RBI",
       "source": "RBI Press Releases",
-      "type": "rss"
-    },
-    {
-      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
-      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
-      "pubDate": "Mon, 17 Aug 2026 16:45:00",
-      "tag": "RBI",
-      "source": "RBI Publications",
       "type": "rss"
     },
     {

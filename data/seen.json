@@ -288,10 +288,190 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63433",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63432",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63431",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63430"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63430",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13690&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13689&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13688&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13687&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13686&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13685&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13684&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13683&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13682&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13681&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63465",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63464",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63463",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63462",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63461",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63460",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63459",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63458",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63457",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63456"
   ],
-  "last_run": "2026-08-25T02:37:55.994Z",
+  "last_run": "2026-08-28T13:09:24.098Z",
   "items": [
+    {
+      "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63465",
+      "pubDate": "Fri, 28 Aug 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Buyback of Government of India Dated Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63464",
+      "pubDate": "Fri, 28 Aug 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Money and Money Supply for the fortnight ended on August 15, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63462",
+      "pubDate": "Fri, 28 Aug 2026 17:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63463",
+      "pubDate": "Fri, 28 Aug 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Government Stock - Full Auction Results",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63461",
+      "pubDate": "Fri, 28 Aug 2026 14:40:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Government Stock - Auction Results: Cut-off",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63460",
+      "pubDate": "Fri, 28 Aug 2026 13:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on August 28, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63459",
+      "pubDate": "Fri, 28 Aug 2026 10:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of Underwriting Auction conducted on August 28, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63458",
+      "pubDate": "Fri, 28 Aug 2026 09:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on August 27, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63457",
+      "pubDate": "Fri, 28 Aug 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – The Citizens Co-operative Bank Ltd., Jammu",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63456",
+      "pubDate": "Thu, 27 Aug 2026 20:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Rural Co-operative Banks – Interest Rate on Deposits) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13690&Mode=0",
+      "pubDate": "Tue, 25 Aug 2026 18:30:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Urban Co-operative Banks – Interest Rate on Deposits) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13689&Mode=0",
+      "pubDate": "Tue, 25 Aug 2026 18:25:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Regional Rural Banks – Interest Rate on Deposits) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13688&Mode=0",
+      "pubDate": "Tue, 25 Aug 2026 18:25:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks – Interest Rate on Deposits)  Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13687&Mode=0",
+      "pubDate": "Tue, 25 Aug 2026 18:25:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Interest Rate on Deposits)  Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13686&Mode=0",
+      "pubDate": "Tue, 25 Aug 2026 18:20:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Interest Rate on Deposits)  Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13685&Mode=0",
+      "pubDate": "Tue, 25 Aug 2026 18:15:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Rural Co-operative Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13684&Mode=0",
+      "pubDate": "Tue, 25 Aug 2026 18:05:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Urban Co-operative Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13683&Mode=0",
+      "pubDate": "Tue, 25 Aug 2026 18:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Regional Rural Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13682&Mode=0",
+      "pubDate": "Tue, 25 Aug 2026 18:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13681&Mode=0",
+      "pubDate": "Tue, 25 Aug 2026 17:55:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
     {
       "title": "RBI to conduct 2-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 25, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63439",

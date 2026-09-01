@@ -308,10 +308,108 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63459",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63458",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63457",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63456"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63456",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63489",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63488",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63487",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63486",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63485",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63484",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63483",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63482",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63481",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63480"
   ],
-  "last_run": "2026-08-28T13:09:24.098Z",
+  "last_run": "2026-09-01T06:31:58.335Z",
   "items": [
+    {
+      "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR)  auction held on September 01, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63489",
+      "pubDate": "Tue, 01 Sep 2026 11:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR)  auction under LAF on September 01, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63488",
+      "pubDate": "Tue, 01 Sep 2026 10:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the 7-day Variable Rate Reverse Repo (VRRR)  auction held on September 01, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63487",
+      "pubDate": "Tue, 01 Sep 2026 10:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on August 31, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63486",
+      "pubDate": "Tue, 01 Sep 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
+      "pubDate": "Mon, 31 Aug 2026 19:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct 7-day Variable Rate Reverse Repo (VRRR) auction under LAF on September 01, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63485",
+      "pubDate": "Mon, 31 Aug 2026 19:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of Government of India Dated Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63484",
+      "pubDate": "Mon, 31 Aug 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Jai Bhawani Sahakari Bank Ltd., Pune",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63483",
+      "pubDate": "Mon, 31 Aug 2026 17:45:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The Mumbai District Central Co-operative Bank Ltd., Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63482",
+      "pubDate": "Mon, 31 Aug 2026 17:40:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Lending and Deposit Rates of Scheduled Commercial Banks – August 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63481",
+      "pubDate": "Mon, 31 Aug 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Monthly Data on India’s International Trade in Services for the Month of July 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63480",
+      "pubDate": "Mon, 31 Aug 2026 17:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
     {
       "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63465",
@@ -550,14 +648,6 @@
       "pubDate": "Mon, 24 Aug 2026 11:45:00",
       "tag": "RBI",
       "source": "RBI Press Releases",
-      "type": "rss"
-    },
-    {
-      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
-      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
-      "pubDate": "Fri, 21 Aug 2026 16:05:00",
-      "tag": "RBI",
-      "source": "RBI Publications",
       "type": "rss"
     },
     {

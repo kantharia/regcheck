@@ -395,10 +395,181 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63636",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63635",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63634",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63633"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63633",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13713&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13712&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13711&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13710&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13709&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13708&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13707&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13706&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63663",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63662",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63661",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63660",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63659",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63658",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63657",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63656",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63655",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63654",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24083"
   ],
-  "last_run": "2026-09-22T06:33:19.108Z",
+  "last_run": "2026-09-25T06:22:53.038Z",
   "items": [
+    {
+      "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR)  auction held on September 25, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63663",
+      "pubDate": "Fri, 25 Sep 2026 10:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of Underwriting Auction conducted on September 25, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63662",
+      "pubDate": "Fri, 25 Sep 2026 09:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on September 24, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63661",
+      "pubDate": "Fri, 25 Sep 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on September 25, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63660",
+      "pubDate": "Thu, 24 Sep 2026 19:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on KLM Axiva Finvest Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63659",
+      "pubDate": "Thu, 24 Sep 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Hero Fincorp Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63658",
+      "pubDate": "Thu, 24 Sep 2026 17:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India imposes monetary penalty on Ola Financial Services Private Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63657",
+      "pubDate": "Thu, 24 Sep 2026 17:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Designation of terrorist organisation under clause (a) of sub-section (1) of section 35 of the Unlawful Activities (Prevention) Act, 1967 and listed in the First Schedule of the Act",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13713&Mode=0",
+      "pubDate": "Thu, 24 Sep 2026 17:15:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Money for the fortnight ended on September 15, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63656",
+      "pubDate": "Thu, 24 Sep 2026 17:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Underwriting Auction for sale of Government Security for &#8377;34,000 crore on September 25, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63655",
+      "pubDate": "Thu, 24 Sep 2026 11:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on September 24, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63654",
+      "pubDate": "Thu, 24 Sep 2026 10:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Exim Bank’s GOI-supported Line of Credit (LOC) for &#8377; 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13712&Mode=0",
+      "pubDate": "Wed, 23 Sep 2026 16:55:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Supervisory Data Quality Index for Scheduled Commercial Banks (June 2026)",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24083",
+      "pubDate": "Tue, 22 Sep 2026 17:50:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (All India Financial Institutions - Classification, Valuation, and Operation of Investment Portfolio) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13711&Mode=0",
+      "pubDate": "Tue, 22 Sep 2026 17:05:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Payments Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13710&Mode=0",
+      "pubDate": "Tue, 22 Sep 2026 17:05:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13709&Mode=0",
+      "pubDate": "Tue, 22 Sep 2026 17:05:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13708&Mode=0",
+      "pubDate": "Tue, 22 Sep 2026 17:05:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Classification, Valuation, and Operation of Investment Portfolio) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13707&Mode=0",
+      "pubDate": "Tue, 22 Sep 2026 17:05:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Novation of OTC Derivative Contracts",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13706&Mode=0",
+      "pubDate": "Tue, 22 Sep 2026 17:05:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
     {
       "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on September 22, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63642",

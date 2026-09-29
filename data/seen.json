@@ -414,10 +414,109 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63656",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63655",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63654",
-    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24083"
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24083",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13714&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63686",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63685",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63684",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63683",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63682",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63681",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63680",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63679",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63678",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63677"
   ],
-  "last_run": "2026-09-25T06:22:53.038Z",
+  "last_run": "2026-09-29T07:15:34.349Z",
   "items": [
+    {
+      "title": "Result of the Second Overnight Variable Rate Reverse Repo (VRRR) auction held on September 29, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63686",
+      "pubDate": "Tue, 29 Sep 2026 12:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct Second Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 29, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63685",
+      "pubDate": "Tue, 29 Sep 2026 10:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on September 29, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63684",
+      "pubDate": "Tue, 29 Sep 2026 10:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on September 28, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63683",
+      "pubDate": "Tue, 29 Sep 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 29, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63682",
+      "pubDate": "Mon, 28 Sep 2026 19:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of Government of India Dated Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63681",
+      "pubDate": "Mon, 28 Sep 2026 18:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Detailed Result: OMO Sale Auction held on Sep 28, 2026 and Settlement on Sep 29, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63680",
+      "pubDate": "Mon, 28 Sep 2026 17:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Open Market Operation (OMO) – Sale of Government of India Securities held on Sep 28, 2026: Cut-Offs",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63679",
+      "pubDate": "Mon, 28 Sep 2026 14:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on September 27, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63678",
+      "pubDate": "Mon, 28 Sep 2026 12:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on September 26, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63677",
+      "pubDate": "Mon, 28 Sep 2026 12:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Amendment) Regulations, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13714&Mode=0",
+      "pubDate": "Fri, 25 Sep 2026 16:25:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
     {
       "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR)  auction held on September 25, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63663",

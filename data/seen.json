@@ -425,10 +425,198 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63680",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63679",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63678",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63677"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63677",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13725&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13724&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13722&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13721&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13720&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13719&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13718&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13717&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13716&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63717",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63716",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63715",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63714",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63713",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63712",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63710",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63709",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63708"
   ],
-  "last_run": "2026-09-29T07:15:34.349Z",
+  "last_run": "2026-10-02T07:16:55.129Z",
   "items": [
+    {
+      "title": "Master Direction on Note Sorting Machines",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0",
+      "pubDate": "Fri, 02 Oct 2026 11:15:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Processing of Applications Received Under the Citizen’s Charter  Status as on September 30, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63717",
+      "pubDate": "Fri, 02 Oct 2026 10:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Non-Resident Deposits - Comprehensive Single Return (NRD-CSR)(R012): Submission under CIMS Sankalan Portal",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13725&Mode=0",
+      "pubDate": "Thu, 01 Oct 2026 21:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Online submission of Form A2: Removal of limits on amount of remittance",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13724&Mode=0",
+      "pubDate": "Thu, 01 Oct 2026 20:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of State Government Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63716",
+      "pubDate": "Thu, 01 Oct 2026 19:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Indicative Calendar of Market borrowings by State Governments/ Union Territories for the Quarter October – December 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63715",
+      "pubDate": "Thu, 01 Oct 2026 19:15:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on October 05, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63714",
+      "pubDate": "Thu, 01 Oct 2026 19:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Rate of Interest on Government of India Floating Rate Bond 2028",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63713",
+      "pubDate": "Thu, 01 Oct 2026 17:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63712",
+      "pubDate": "Thu, 01 Oct 2026 17:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13722&Mode=0",
+      "pubDate": "Thu, 01 Oct 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Payments Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13721&Mode=0",
+      "pubDate": "Thu, 01 Oct 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13720&Mode=0",
+      "pubDate": "Thu, 01 Oct 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13719&Mode=0",
+      "pubDate": "Thu, 01 Oct 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
+      "pubDate": "Thu, 01 Oct 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – The Industrial Co-operative Bank Ltd., Guwahati – Extension of period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63710",
+      "pubDate": "Thu, 01 Oct 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Government Stock - Full Auction Results",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63709",
+      "pubDate": "Thu, 01 Oct 2026 14:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Government Stock - Auction Results: Cut-off",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63708",
+      "pubDate": "Thu, 01 Oct 2026 13:40:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Consolidation/ Review of instructions issued on currency management matters – Withdrawal of Circulars/ Guidelines",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13718&Mode=0",
+      "pubDate": "Thu, 01 Oct 2026 10:50:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Cassette - Swaps in ATMs",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13717&Mode=0",
+      "pubDate": "Thu, 01 Oct 2026 09:25:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Master Circular - Credit Facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs)",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13716&Mode=0",
+      "pubDate": "Thu, 01 Oct 2026 09:15:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
+      "pubDate": "Wed, 30 Sep 2026 16:15:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
     {
       "title": "Result of the Second Overnight Variable Rate Reverse Repo (VRRR) auction held on September 29, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63686",
@@ -1067,14 +1255,6 @@
       "pubDate": "Tue, 08 Sep 2026 18:25:00",
       "tag": "RBI",
       "source": "RBI Notifications",
-      "type": "rss"
-    },
-    {
-      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
-      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
-      "pubDate": "Tue, 08 Sep 2026 17:35:00",
-      "tag": "RBI",
-      "source": "RBI Publications",
       "type": "rss"
     },
     {

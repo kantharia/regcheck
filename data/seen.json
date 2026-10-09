@@ -455,10 +455,280 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63730",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63729",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63728",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63727"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63727",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13734&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13733&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13732&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13730&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13729&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13728&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13727&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13726&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63773",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63772",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63771",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63770",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63769",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63768",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63767",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63766",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63765",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63764",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24095",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24094",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24093",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24092",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24091",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24090",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24089",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24088",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24087",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24086"
   ],
-  "last_run": "2026-10-06T07:51:30.133Z",
+  "last_run": "2026-10-09T07:43:42.308Z",
   "items": [
+    {
+      "title": "RBI cancels Certificate of Registration of 13 NBFCs",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63773",
+      "pubDate": "Fri, 09 Oct 2026 12:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "10 NBFCs surrender their Certificates of Registration to the RBI",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63772",
+      "pubDate": "Fri, 09 Oct 2026 12:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on October 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63771",
+      "pubDate": "Fri, 09 Oct 2026 11:45:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on October 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63770",
+      "pubDate": "Fri, 09 Oct 2026 10:45:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the 10-day Variable Rate Reverse Repo (VRRR) auction held on October 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63769",
+      "pubDate": "Fri, 09 Oct 2026 10:15:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of Underwriting Auction conducted on October 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63768",
+      "pubDate": "Fri, 09 Oct 2026 09:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on October 08, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63767",
+      "pubDate": "Fri, 09 Oct 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct 10-day Variable Rate Reverse Repo (VRRR) auction under LAF on October 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63766",
+      "pubDate": "Thu, 08 Oct 2026 19:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The Monghyr-Jamui Central Co-operative Bank Limited, Bihar",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63765",
+      "pubDate": "Thu, 08 Oct 2026 17:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Sri Mahatma Basaveshwar Co-operative Bank Ltd., Afzalpur",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63764",
+      "pubDate": "Thu, 08 Oct 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "A Handbook on RBI's Weekly Statistical Supplement",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24095",
+      "pubDate": "Thu, 08 Oct 2026 17:10:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Comprehensive Guide for Current Statistics of the RBI Monthly Bulletin",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24094",
+      "pubDate": "Thu, 08 Oct 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
+      "pubDate": "Wed, 07 Oct 2026 17:40:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Payments Banks – Prudential Norms on Capital Adequacy) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13734&Mode=0",
+      "pubDate": "Wed, 07 Oct 2026 17:40:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Prudential Norms on Capital Adequacy) Sixth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13733&Mode=0",
+      "pubDate": "Wed, 07 Oct 2026 17:40:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Twelfth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13732&Mode=0",
+      "pubDate": "Wed, 07 Oct 2026 17:40:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
+      "pubDate": "Wed, 07 Oct 2026 17:35:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13730&Mode=0",
+      "pubDate": "Wed, 07 Oct 2026 17:25:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Credit Valuation Adjustment Framework) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13729&Mode=0",
+      "pubDate": "Wed, 07 Oct 2026 17:05:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Urban Consumer Confidence Survey",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24093",
+      "pubDate": "Wed, 07 Oct 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Bank Lending Survey for Q2:2026-27",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24092",
+      "pubDate": "Wed, 07 Oct 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Rural Consumer Confidence Survey",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24091",
+      "pubDate": "Wed, 07 Oct 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Industrial Outlook Survey of the Manufacturing Sector for Q2:2026-27",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24090",
+      "pubDate": "Wed, 07 Oct 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Households’ Inflation Expectations Survey",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24089",
+      "pubDate": "Wed, 07 Oct 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Services and Infrastructure Outlook Survey for Q2:2026-27",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24088",
+      "pubDate": "Wed, 07 Oct 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Order Books, Inventories and Capacity Utilisation Survey  on the Manufacturing sector for Q1:2026-27",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24087",
+      "pubDate": "Wed, 07 Oct 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Survey of Professional Forecasters on Macroeconomic Indicators– Results of the 102nd Round",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24086",
+      "pubDate": "Wed, 07 Oct 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Penal Interest on shortfall in CRR and SLR requirements - Change in Bank Rate",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13728&Mode=0",
+      "pubDate": "Wed, 07 Oct 2026 16:25:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Liquidity Adjustment Facility - Change in rates",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13727&Mode=0",
+      "pubDate": "Wed, 07 Oct 2026 11:25:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Standing Liquidity Facility for Primary Dealers",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13726&Mode=0",
+      "pubDate": "Wed, 07 Oct 2026 11:20:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
     {
       "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on October 06, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63736",

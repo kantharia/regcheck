@@ -510,10 +510,135 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63810",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63809",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63808",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63807"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63807",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13740&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63832",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63831",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63830",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63829",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63828",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63827",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63826",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63825",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63824"
   ],
-  "last_run": "2026-10-16T06:07:08.601Z",
+  "last_run": "2026-10-20T06:18:37.311Z",
   "items": [
+    {
+      "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 21, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
+      "pubDate": "Mon, 19 Oct 2026 19:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of Government of India Dated Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63832",
+      "pubDate": "Mon, 19 Oct 2026 17:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Konark Urban Co-operative Bank Ltd., Ulhasnagar – Extension of Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63831",
+      "pubDate": "Mon, 19 Oct 2026 17:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
+      "pubDate": "Mon, 19 Oct 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
+      "pubDate": "Mon, 19 Oct 2026 16:50:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Miscellaneous) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13740&Mode=0",
+      "pubDate": "Mon, 19 Oct 2026 16:50:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "State Government Securities - Full Auction Result",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63830",
+      "pubDate": "Mon, 19 Oct 2026 16:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result: Conversion/Switch Auction of Government of India Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63829",
+      "pubDate": "Mon, 19 Oct 2026 15:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of Yield/Price Based Auction of State Government Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63828",
+      "pubDate": "Mon, 19 Oct 2026 14:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on October 18, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63827",
+      "pubDate": "Mon, 19 Oct 2026 11:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on October 17, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63826",
+      "pubDate": "Mon, 19 Oct 2026 11:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the 7-day Variable Rate Repo (VRR)  auction held on October 19, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63825",
+      "pubDate": "Mon, 19 Oct 2026 10:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on October 16, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63824",
+      "pubDate": "Mon, 19 Oct 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
+      "pubDate": "Fri, 16 Oct 2026 16:05:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
     {
       "title": "Result of Underwriting Auction conducted on October 16, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63816",
@@ -536,14 +661,6 @@
       "pubDate": "Thu, 15 Oct 2026 17:50:00",
       "tag": "RBI",
       "source": "RBI Press Releases",
-      "type": "rss"
-    },
-    {
-      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
-      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
-      "pubDate": "Thu, 15 Oct 2026 17:30:00",
-      "tag": "RBI",
-      "source": "RBI Publications",
       "type": "rss"
     },
     {

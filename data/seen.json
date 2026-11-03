@@ -559,10 +559,109 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63881",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63880",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63879",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63878"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63878",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63905",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63904",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63903",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63902",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63901",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63900",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63899",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63898",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63897",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63896"
   ],
-  "last_run": "2026-10-30T07:31:05.167Z",
+  "last_run": "2026-11-03T08:16:54.089Z",
   "items": [
+    {
+      "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on November 03, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63905",
+      "pubDate": "Tue, 03 Nov 2026 11:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on November 03, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63904",
+      "pubDate": "Tue, 03 Nov 2026 10:40:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on November 02, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63903",
+      "pubDate": "Tue, 03 Nov 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of Government of India Dated Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63902",
+      "pubDate": "Mon, 02 Nov 2026 18:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Processing of Applications Received Under the Citizen’s Charter Status as on October 31, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63901",
+      "pubDate": "Mon, 02 Nov 2026 17:15:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on November 01, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63900",
+      "pubDate": "Mon, 02 Nov 2026 12:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on October 31, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63899",
+      "pubDate": "Mon, 02 Nov 2026 12:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on October 30, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63898",
+      "pubDate": "Mon, 02 Nov 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series VII due on November 02, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63897",
+      "pubDate": "Fri, 30 Oct 2026 18:40:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of State Government Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63896",
+      "pubDate": "Fri, 30 Oct 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0",
+      "pubDate": "Fri, 30 Oct 2026 15:15:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
     {
       "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
       "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",

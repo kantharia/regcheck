@@ -570,10 +570,119 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63899",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63898",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63897",
-    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63896"
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63896",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63935",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63934",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63932",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63931",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63930",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63929",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63928",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63927",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63926",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24097"
   ],
-  "last_run": "2026-11-03T08:16:54.089Z",
+  "last_run": "2026-11-06T08:15:30.602Z",
   "items": [
+    {
+      "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR)  auction held on November 06, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63935",
+      "pubDate": "Fri, 06 Nov 2026 10:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of Underwriting Auction conducted on November 06, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63934",
+      "pubDate": "Fri, 06 Nov 2026 10:15:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on November 05, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933",
+      "pubDate": "Fri, 06 Nov 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on November 06, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63932",
+      "pubDate": "Thu, 05 Nov 2026 19:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Auction of State Government Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63931",
+      "pubDate": "Thu, 05 Nov 2026 18:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
+      "pubDate": "Thu, 05 Nov 2026 18:20:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Foreign Exchange Turnover Data: October 26, 2026 – October 30, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63930",
+      "pubDate": "Thu, 05 Nov 2026 17:30:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Foreign Exchange Turnover Data: October 19, 2026 – October 23, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63929",
+      "pubDate": "Thu, 05 Nov 2026 17:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Foreign Exchange Turnover Data: October 12, 2026 – October 16, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63928",
+      "pubDate": "Thu, 05 Nov 2026 17:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Foreign Exchange Turnover Data: October 05, 2026 – October 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63927",
+      "pubDate": "Thu, 05 Nov 2026 17:15:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Foreign Exchange Turnover Data: September 28, 2026 – October 01, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63926",
+      "pubDate": "Thu, 05 Nov 2026 17:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
+      "pubDate": "Tue, 03 Nov 2026 15:25:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
     {
       "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on November 03, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63905",
@@ -636,6 +745,14 @@
       "pubDate": "Mon, 02 Nov 2026 09:00:00",
       "tag": "RBI",
       "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Monetary and Credit Information Review",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24097",
+      "pubDate": "Sat, 31 Oct 2026 18:10:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
       "type": "rss"
     },
     {

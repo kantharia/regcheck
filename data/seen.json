@@ -583,10 +583,109 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63928",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63927",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63926",
-    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24097"
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24097",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63952",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63951",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63950",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63949",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63948",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63947",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63946",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63945",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63944",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63943",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24098"
   ],
-  "last_run": "2026-11-06T08:15:30.602Z",
+  "last_run": "2026-11-10T08:39:54.206Z",
   "items": [
+    {
+      "title": "Auction of Government of India Dated Security",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63952",
+      "pubDate": "Mon, 09 Nov 2026 18:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Supersession of Board of Directors of Abhyudaya Co-operative Bank Ltd., Mumbai - Extension of period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63951",
+      "pubDate": "Mon, 09 Nov 2026 18:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "State Government Securities - Full Auction Result",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63950",
+      "pubDate": "Mon, 09 Nov 2026 16:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank cancels Certificate of Registration of Gandhinagar Leasing and Finance Ltd.",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63949",
+      "pubDate": "Mon, 09 Nov 2026 16:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of Yield/Price Based Auction of State Government Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63948",
+      "pubDate": "Mon, 09 Nov 2026 14:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on November 08, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63947",
+      "pubDate": "Mon, 09 Nov 2026 11:40:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on November 07, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63946",
+      "pubDate": "Mon, 09 Nov 2026 11:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the 4-day Variable Rate Repo (VRR) auction held on November 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63945",
+      "pubDate": "Mon, 09 Nov 2026 10:45:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on November 06, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63944",
+      "pubDate": "Mon, 09 Nov 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63943",
+      "pubDate": "Fri, 06 Nov 2026 19:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Census on Foreign Liabilities and Assets of Indian Direct Investment Entities for 2025-26",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24098",
+      "pubDate": "Fri, 06 Nov 2026 17:30:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
     {
       "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR)  auction held on November 06, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63935",

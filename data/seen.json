@@ -594,10 +594,109 @@
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63945",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63944",
     "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63943",
-    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24098"
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24098",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63970",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63969",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63968",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63967",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63966",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63965",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63964",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63963",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63962",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961"
   ],
-  "last_run": "2026-11-10T08:39:54.206Z",
+  "last_run": "2026-11-13T08:28:44.492Z",
   "items": [
+    {
+      "title": "Government Stock - Full Auction Results",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63970",
+      "pubDate": "Fri, 13 Nov 2026 13:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Government Stock - Auction Results: Cut-off",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63969",
+      "pubDate": "Fri, 13 Nov 2026 13:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on November 13, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63968",
+      "pubDate": "Fri, 13 Nov 2026 10:20:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of Underwriting Auction conducted on November 13, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63967",
+      "pubDate": "Fri, 13 Nov 2026 09:55:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on November 12, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63966",
+      "pubDate": "Fri, 13 Nov 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on November 13, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63965",
+      "pubDate": "Thu, 12 Nov 2026 19:05:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Final redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for final redemption of SGB 2018-19 Series-III due on November 13, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63964",
+      "pubDate": "Thu, 12 Nov 2026 18:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Underwriting Auction for sale of Government Security for &#8377;34,000 crore on November 13, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63963",
+      "pubDate": "Thu, 12 Nov 2026 11:50:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on November 12, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63962",
+      "pubDate": "Thu, 12 Nov 2026 11:40:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI releases data on ECB / FCCB / RDB for September 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961",
+      "pubDate": "Thu, 12 Nov 2026 11:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Bank of India (Domestic Money Transfer) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0",
+      "pubDate": "Wed, 11 Nov 2026 17:00:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
     {
       "title": "Auction of Government of India Dated Security",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63952",

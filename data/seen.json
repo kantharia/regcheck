@@ -652,10 +652,135 @@
     "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24118",
     "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24117",
     "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24116",
-    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24115"
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24115",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13758&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13757&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64055",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64054",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64053",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64052",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64051",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64050",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64049",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64048",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64047",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64046",
+    "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24125"
   ],
-  "last_run": "2026-11-24T11:23:19.097Z",
+  "last_run": "2026-11-27T09:56:00.818Z",
   "items": [
+    {
+      "title": "Government Stock - Auction Results: Cut-off",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64055",
+      "pubDate": "Fri, 27 Nov 2026 14:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
+      "pubDate": "Fri, 27 Nov 2026 12:35:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the 3-day Variable Rate Repo (VRR) auction held on November 27, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64054",
+      "pubDate": "Fri, 27 Nov 2026 10:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of Underwriting Auction conducted on November 27, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64053",
+      "pubDate": "Fri, 27 Nov 2026 10:10:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Money Market Operations as on November 26, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64052",
+      "pubDate": "Fri, 27 Nov 2026 09:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on November 27, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64051",
+      "pubDate": "Thu, 26 Nov 2026 19:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Reserve Money and Money Supply for the fortnight ended on November 15, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64050",
+      "pubDate": "Thu, 26 Nov 2026 18:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result: First Conversion/Switch Auction of State Government Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64049",
+      "pubDate": "Thu, 26 Nov 2026 16:25:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Underwriting Auction for sale of Government Securities for &#8377;33,000 crore on November 27, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64048",
+      "pubDate": "Thu, 26 Nov 2026 12:15:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Result of the Second Overnight Variable Rate Repo (VRR) auction held on November 26, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64047",
+      "pubDate": "Thu, 26 Nov 2026 12:00:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13758&Mode=0",
+      "pubDate": "Thu, 26 Nov 2026 11:15:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13757&Mode=0",
+      "pubDate": "Thu, 26 Nov 2026 11:10:00",
+      "tag": "RBI",
+      "source": "RBI Notifications",
+      "type": "rss"
+    },
+    {
+      "title": "RBI to conduct Second Overnight Variable Rate Repo (VRR) auction under LAF on November 26, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64046",
+      "pubDate": "Thu, 26 Nov 2026 10:35:00",
+      "tag": "RBI",
+      "source": "RBI Press Releases",
+      "type": "rss"
+    },
+    {
+      "title": "Half Yearly Report on Management of Foreign Exchange Reserves: April - September 2026",
+      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24125",
+      "pubDate": "Wed, 25 Nov 2026 18:05:00",
+      "tag": "RBI",
+      "source": "RBI Publications",
+      "type": "rss"
+    },
     {
       "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 25, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
@@ -1398,14 +1523,6 @@
       "pubDate": "Fri, 30 Oct 2026 15:15:00",
       "tag": "RBI",
       "source": "RBI Notifications",
-      "type": "rss"
-    },
-    {
-      "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
-      "link": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
-      "pubDate": "Fri, 30 Oct 2026 12:05:00",
-      "tag": "RBI",
-      "source": "RBI Publications",
       "type": "rss"
     },
     {
